@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bond-st/static/js/main.865891d3.chunk.js",
+    "main.js.map": "/bond-st/static/js/main.865891d3.chunk.js.map",
+    "runtime-main.js": "/bond-st/static/js/runtime-main.c5a7df94.js",
+    "runtime-main.js.map": "/bond-st/static/js/runtime-main.c5a7df94.js.map",
+    "static/js/2.4b816d6c.chunk.js": "/bond-st/static/js/2.4b816d6c.chunk.js",
+    "static/js/2.4b816d6c.chunk.js.map": "/bond-st/static/js/2.4b816d6c.chunk.js.map",
+    "index.html": "/bond-st/index.html",
+    "precache-manifest.fd0e753239277da650a48dd9d4e8cd89.js": "/bond-st/precache-manifest.fd0e753239277da650a48dd9d4e8cd89.js",
+    "service-worker.js": "/bond-st/service-worker.js",
+    "static/media/logo-black.png": "/bond-st/static/media/logo-black.abe03533.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a7df94.js",
+    "static/js/2.4b816d6c.chunk.js",
+    "static/js/main.865891d3.chunk.js"
+  ]
+}
