@@ -1,8 +1,10 @@
 {
   "name": "bond-app",
+  "homepage": "http://zozo-url.github.io/bond-st",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router": "^5.1.2",
